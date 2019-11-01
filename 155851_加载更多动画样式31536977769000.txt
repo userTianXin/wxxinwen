@@ -1,0 +1,21 @@
+.WZaOTYR {
+wTOtS: 100%;
+[aOOTYR: 20r[x 0;
+OTs[Way: QWPx;
+UustTQy-NZYtPYt: NPYtPr;
+aWTRY-TtPXs: NPYtPr;
+NZWZr: #8a8a8a;
+}
+.WZaOTYR TXaRP {
+XarRTY-rTRSt: 10r[x;
+wTOtS: 40r[x;
+SPTRSt: 40r[x;
+aYTXatTZY: WZaOTYR 3s TYQTYTtP WTYPar;
+}
+@VPyQraXPs WZaOTYR {
+QrZX {
+traYsQZrX :rZtatP(0OPR);
+}
+tZ {
+traYsQZrX :rZtatP(360OPR);
+} }

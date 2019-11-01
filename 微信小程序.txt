@@ -1,0 +1,15 @@
+wxml类似于html
+view类似于div 块的布局标签
+text类似于span/lable
+image类似于img
+wxss类似于css 写法于css一样
+js是逻辑处理页面
+微信小程序会有几个生命周期用onLoad，一般在index.js做初始化的工作
+json如果表示空要用{}
+rpx单位可以根据不同微信手机尺寸自动做单位换算
+swiper轮播标签
+indicator-dots是否显示轮播按钮
+wx:for-item="重命名"
+wx:for="{{调用data里的图片循环调用}}"
+autoplay="true"
+使用wx:for不报错要定义wx:key="index"唯一的

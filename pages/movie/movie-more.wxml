@@ -1,0 +1,11 @@
+<!--pages/movie/movie-more.wxml-->
+<import src="../template/template.wxml" />
+
+<view class="movie-list">
+  <block wx:for="{{comingSoonList}}" wx:key="index">
+    <template is="movieItem" data="{{item}}"></template>
+  </block>
+  <template is="loading" wx:if="{{showLoading}}"></template>
+
+
+</view>

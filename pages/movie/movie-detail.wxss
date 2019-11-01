@@ -1,0 +1,77 @@
+/* pages/movie/movie-detail.wxss */
+@import "../template/template.wxss";
+.movie-info-container{
+  display: flex;
+  flex-direction: row;
+  padding: 30rpx;
+  border-bottom: 1px solid #cccccc;
+}
+.movie-image{
+  width: 210rpx;
+  height: 300rpx;
+}
+.movie-info{
+  display: flex;
+  flex-direction: column;
+  padding: 30rpx;
+}
+
+.movie-title{
+  font-size: 36rpx;
+}
+.movie-in-theater{
+  font-size: 30rpx;
+  color: #8a8a8a;
+}
+.movie-count{
+  width: 250rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.movie-count image{
+  width: 40rpx;
+  height: 40rpx;
+}
+.movie-count text{
+  font-size: 28rpx;
+  color: #8a8a8a;
+
+}
+.movie-description-container{
+  padding: 30rpx;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 1px solid #cccccc;
+}
+.title{
+  display: block;
+  font-size: 32rpx;
+  padding-top: 30rpx;
+  padding-bottom: 30rpx;
+}
+.description{
+  font-size: 28rpx;
+}
+.avatars{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.avatars view{
+  text-align: center;
+  font-size: 28rpx;
+}
+.avatars image{
+  width: 210rpx;
+  height: 300rpx;
+  display: flex;
+  flex-direction: column;
+}
+.movie-avatars-container{
+  display: flex;
+  flex-direction: column;
+  padding: 30rpx;
+}
+
